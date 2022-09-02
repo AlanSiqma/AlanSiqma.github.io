@@ -13,3 +13,6 @@ Cerficado como Scrum Master.
 
 Trabalho atualmente no banco [Itau](https://www.itauassetmanagement.com.br/) como Engenheiro de Software.
 
+Gosto de estudar, ler, programar, e claro muito cafe ☕
+
+
