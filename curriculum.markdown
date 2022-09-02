@@ -22,7 +22,7 @@ Arquitetura de Soluções, PUC Minas, 2021 - 2022
 
 **Cargo:** Engenheiro de Software
 
-**Atividades:** Responsavel por desenha e desenvolver a migração de soluççoes para AWS, sustentação de sistemas legados, desenvolvimento de novas aplicações; Desenvolvimento em VB.NET, Python,C#, MVC, Entity Framework, Unit Test, Banco de dados Sql Server, Dynamo DB, Versionamento com GitHub, GitLab. acompanhamento dos projetos via Jira.
+**Atividades:** Responsavel por desenhar e desenvolver a migração de soluções para AWS, sustentação de sistemas legados, desenvolvimento de novas aplicações; Desenvolvimento em C#, Python, MVC, Entity Framework, Unit Test, Banco de dados Sql Server, Dynamo DB, Versionamento com GitHub, GitLab. acompanhamento dos projetos via Jira.
 
 • **Indra –2020 – 2021**
 

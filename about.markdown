@@ -4,15 +4,11 @@ title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Brasileiro, casado, 30 anos, pai da Maria Luisa 🤰 (ela está no forninho).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Cerficado como Scrum Master.
 
+Trabalho atualmente no banco [Itau](https://www.itauassetmanagement.com.br/) como Engenheiro de Software.
 
-[jekyll-organization]: https://github.com/jekyll
