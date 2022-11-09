@@ -12,8 +12,9 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
-| [12 Regras para a vida](https://images-na.ssl-images-amazon.com/images/I/41XbfSiYscL._SX348_BO1,204,203,200_.jpg) |📚                      |
-| [Clean Code](https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg)  | 📚 
+| [Admirável mundo novo](https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg) | 📖 |
+| [12 Regras para a vida](https://images-na.ssl-images-amazon.com/images/I/41XbfSiYscL._SX348_BO1,204,203,200_.jpg) | 📚 |
+| [Clean Code](https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg)  | 📚 |
 | [Scrum](https://images-na.ssl-images-amazon.com/images/I/514ZCPRQ-bL._SX337_BO1,204,203,200_.jpg) | 📚 |
 | [O poder do hábito](https://images-na.ssl-images-amazon.com/images/I/81XTXQEVPlL.jpg) | 📚 |
 | [Me poupe](https://images-americanas.b2w.io/produtos/133570824/imagens/livro-me-poupe-10-passos-para-nunca-mais-faltar-dinheiro-no-seu-bolso/133570824_1_large.jpg)| 📚 |
