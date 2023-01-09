@@ -9,7 +9,7 @@ permalink: /
 
 ### Olá, Eu sou o Alan 👋
 
-Brasileiro, casado, 30 anos, pai da Maria Luisa 🤰 (ela está no forninho).
+Brasileiro, casado, 30 anos, pai da Maria Luísa 👧.
 
 Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
 
