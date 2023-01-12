@@ -12,7 +12,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
-| [Admirável mundo novo](https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg) | 📖 |
+| [Admirável mundo novo](https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg) | 📚 |
 | [12 Regras para a vida](https://images-na.ssl-images-amazon.com/images/I/41XbfSiYscL._SX348_BO1,204,203,200_.jpg) | 📚 |
 | [Clean Code](https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg)  | 📚 |
 | [Scrum](https://images-na.ssl-images-amazon.com/images/I/514ZCPRQ-bL._SX337_BO1,204,203,200_.jpg) | 📚 |
