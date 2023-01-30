@@ -12,6 +12,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
+| [Os 4 Temperamentos na educação dos ](https://http2.mlstatic.com/D_NQ_NP_765629-MLB49957067293_052022-O.jpg) | 📖 |
 | [Admirável mundo novo](https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg) | 📚 |
 | [12 Regras para a vida](https://images-na.ssl-images-amazon.com/images/I/41XbfSiYscL._SX348_BO1,204,203,200_.jpg) | 📚 |
 | [Clean Code](https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX376_BO1,204,203,200_.jpg)  | 📚 |
