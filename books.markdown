@@ -12,7 +12,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
-| [Pais bem-sucedidos](https://m.media-amazon.com/images/I/41q+8pEpepL._SX327_BO1,204,203,200_.jpg) | 📖 |
+| [Pais bem-sucedidos](https://m.media-amazon.com/images/I/41q+8pEpepL._SX327_BO1,204,203,200_.jpg) | 📚 |
 | [Tratado de Economia Doméstica](https://m.media-amazon.com/images/I/81-ZSu54WwL.jpg) | 📚 |
 | [Os 4 Temperamentos na educação dos ](https://http2.mlstatic.com/D_NQ_NP_765629-MLB49957067293_052022-O.jpg) | 📚 |
 | [Admirável mundo novo](https://m.media-amazon.com/images/I/61hOp6UFvCL.jpg) | 📚 |
