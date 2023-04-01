@@ -58,5 +58,7 @@ Nugets referentes a esse processo.
 WindowsForm, Angular, Cordova, Phonegap, Xamarin, CSS, HTML, Javascript, JQuery, TSQL.
 Ponto em destaque: Projeto de Portal ITSM para acompanhamentos dos chamados do
 service Desk.
-Cargo: Estagiário
-Atividades: Manutenção nos softwares corporativos, em: SQL Server, e Asp
+
+**Cargo:** Estagiário
+
+**Atividades:** Manutenção nos softwares corporativos, em: SQL Server, e Asp
