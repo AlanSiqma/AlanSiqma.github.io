@@ -12,6 +12,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
+| [Desconstruindo Paulo Freire](https://m.media-amazon.com/images/I/71mIErlPbKL._AC_UF1000,1000_QL80_.jpg) | 📖  |
 | [Regras Simples](https://m.media-amazon.com/images/I/41zn5wTdCqL.jpg) | 📚  |
 | [Pais bem-sucedidos](https://m.media-amazon.com/images/I/41q+8pEpepL._SX327_BO1,204,203,200_.jpg) | 📚 |
 | [Tratado de Economia Doméstica](https://m.media-amazon.com/images/I/81-ZSu54WwL.jpg) | 📚 |
