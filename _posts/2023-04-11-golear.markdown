@@ -15,9 +15,10 @@ A Golear é uma plataforma que permite que administradores de times de futebol a
 - Gestão financeira das mensalidades dos jogadores, com lembretes automáticos de pagamento em atraso;
 - Recursos de relatório para acompanhamento do histórico de jogos, valores de mensalidades pagas e informações dos jogadores.
 
-## Equipe
-
-- **Alan Siqueira Maia** ([LinkedIn](https://www.linkedin.com/in/alansiqma/))
-- **Cleber Ventura**  ([LinkedIn](https://www.linkedin.com/in/cleber-ventura-23b1a876/))
-
 Em resumo, a Golear é uma aplicação que simplifica a gestão de times de futebol amador, ajudando a garantir que todos os jogadores estejam bem informados sobre os jogos e as obrigações financeiras, além de tornar o processo de agendamento de jogos mais organizado e prático.
+
+
+Você pode acessa a aplicação clicando [aqui][site-golear].
+
+
+[site-golear]: https://www.golear.com.br/
