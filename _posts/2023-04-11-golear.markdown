@@ -20,5 +20,4 @@ Em resumo, a Golear é uma aplicação que simplifica a gestão de times de fute
 
 Você pode acessa a aplicação clicando [aqui][site-golear].
 
-
 [site-golear]: https://www.golear.com.br/
