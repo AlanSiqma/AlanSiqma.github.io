@@ -17,6 +17,8 @@ Arquitetura de Soluções, PUC Minas, 2021 - 2022
 
 • Scrum Fundation Processional Certificate - CertiProf
 
+• AWS Certified Cloud Practitioner - AWS
+
 ## EXPERIÊNCIA
 • **Itaú – 2021 – Atual emprego**
 
