@@ -21,6 +21,8 @@ Arquitetura de Soluções, PUC Minas, 2021 - 2022
 
 ## EXPERIÊNCIA
 • **Itaú – 2021 – Atual emprego**
+**Cargo:** Arquiteto de Soluções
+**Atividades:***
 
 **Cargo:** Engenheiro de Software
 
