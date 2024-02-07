@@ -22,6 +22,7 @@ Arquitetura de Soluções, PUC Minas, 2021 - 2022
 ## EXPERIÊNCIA
 • **Itaú – 2021 – Atual emprego**
 **Cargo:** Arquiteto de Soluções
+
 **Atividades:*** Responsável por projetar arquiteturas tecnológicas robustas e seguras. integração de sistemas, garantir a conformidade regulatória e otimização de processos de crédito
 
 **Cargo:** Engenheiro de Software
