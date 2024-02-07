@@ -12,7 +12,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
-| [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://m.media-amazon.com/images/I/619ht2WrGTL._SY385_.jpg) | 📖  |
+| [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%25C3%25A3o-Estrutura-Software/dp/8550804606?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6671f0309191f6f3545b62a7c2df9edb&camp=1789&creative=9325) | 📖  |
 | [Desconstruindo Paulo Freire](https://m.media-amazon.com/images/I/71mIErlPbKL._AC_UF1000,1000_QL80_.jpg) | 📚  |
 | [Regras Simples](https://m.media-amazon.com/images/I/41zn5wTdCqL.jpg) | 📚  |
 | [Pais bem-sucedidos](https://m.media-amazon.com/images/I/41q+8pEpepL._SX327_BO1,204,203,200_.jpg) | 📚 |
