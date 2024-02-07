@@ -22,5 +22,3 @@ Gosto de: estudar, ler, programar e claro muito cafe ☕
 [Curriculum profissional](curriculum.markdown)
 
 [Curriculum lates](http://lattes.cnpq.br/3074570211449494)
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="alansiqma" data-description="Support me on Buy me a coffee!" data-message="Olá, que tal me pagar um café?" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
