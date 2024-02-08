@@ -20,6 +20,10 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Acesse o canal do telegram](https://t.me/+EERb7Fd4F_FkZGMx)
 
+[Acesse o repositorio do evento](https://github.com/AlanSiqma/holidaycode)
+
+[Acesse o site oficial do evento](bit.ly/496PnTh)
+
 ## PROGRAMAÇÃO 
 
 ### Módulo 1: Introdução e Início do Desenvolvimento
