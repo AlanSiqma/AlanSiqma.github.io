@@ -7,7 +7,15 @@ layout: default
 permalink: /events/
 ---
 
+<ul class="post-meta">
 {% for event in site.events %}
-- [{{ event.title }}]({{ event.url }})
-{% endfor %}
-
+    <li>
+        <span class="post-meta">{{ event.date }}</span>
+        <h3>
+            <a class="post-link" href="{{event.url}}">
+            {{ event.title }}
+            </a>
+        </h3>
+    </li> 
+ {% endfor %}
+</ul>
