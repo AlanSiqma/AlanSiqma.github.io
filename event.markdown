@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Eventos
-layout: home
+layout: page
 permalink: /events/
 ---
 
