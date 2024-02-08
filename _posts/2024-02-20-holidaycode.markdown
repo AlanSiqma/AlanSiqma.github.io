@@ -22,7 +22,7 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Acesse o repositorio do evento](https://github.com/AlanSiqma/holidaycode)
 
-[Acesse o site oficial do evento](bit.ly/496PnTh)
+[Acesse o site oficial do evento](https://bit.ly/496PnTh)
 
 ## PROGRAMAÇÃO 
 
