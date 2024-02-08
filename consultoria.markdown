@@ -22,7 +22,7 @@ Programação de um mês:
     - Daily de 15 min de segunda a sábado
     - Planning de 1h após o alinhamento inicial
     - Retrospectiva no final da release para entender se os objetivos foram concluídos
-    - Code Review (ou revisão de trabalho)
+    - Code Review (revisão de trabalho)
 
 [Clique aqui](https://bit.ly/497joSX)
 
