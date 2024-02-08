@@ -7,6 +7,9 @@ layout: default
 permalink: /events/
 ---
 
+
+
+
 <ul class="post-meta">
 {% for event in site.events %}
     <li>
