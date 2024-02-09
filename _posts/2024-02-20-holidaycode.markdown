@@ -7,7 +7,7 @@ categories: eventos
 # Holiday Code 🥳🎉💃🕺👯👯‍♂️👯‍♀️
 ## FALA GALERA, TUDO CERTO?
 
-O Holiday Code é um evento online e gratuito que será realizado no dia 20 de fevereiro das 18h00 até as 22h00.
+O Holiday Code é um evento online e gratuito que será realizado no dia 13 de fevereiro das 18h00 até as 22h00.
 Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
 [GARANTIR MINHA VAGA](https://bit.ly/496PnTh)
