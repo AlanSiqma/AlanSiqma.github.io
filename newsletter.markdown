@@ -6,4 +6,6 @@ layout: page
 permalink: /newsletter/
 ---
 
-<iframe src="https://alansiqma.substack.com/embed" width="480" height="320" style="text-align: center; border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div style="text-align: center;">
+<iframe src="https://alansiqma.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
