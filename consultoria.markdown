@@ -24,5 +24,4 @@ Programação de um mês:
     - Retrospectiva no final da release para entender se os objetivos foram concluídos
     - Code Review (revisão de trabalho)
 
-[Clique aqui](https://bit.ly/497joSX)
-
+[Clique aqui](https://don7.short.gy/ksOJSh)
