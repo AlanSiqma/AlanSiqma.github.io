@@ -4,6 +4,14 @@ title: Leituras
 permalink: /books/
 ---
 
+## Legendas
+
+| Icone     | Status      |
+| ----------------------  | ----------- |
+| 📖  | Lendo |
+| 📚  | Lido |
+
+
 ## Top 3
 
 | Nome do livro      | Status      |
@@ -13,12 +21,6 @@ permalink: /books/
 | [Scrum](https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade/dp/8543107164?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6ea578383403572caf9819eb710e3668&camp=1789&creative=9325) | 📚 |
 
 ## Lista de Leituras
-
-| Icone     | Status      |
-| ----------------------  | ----------- |
-| 📖  | Lendo |
-| 📚  | Lido |
-
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
