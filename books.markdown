@@ -5,8 +5,9 @@ permalink: /books/
 ---
 
 ## Top 3
+
 | Nome do livro      | Status      |
-| ----------------------  | ----------- |
+| ------------------ | ----------- |
 | [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%25C3%25A3o-Estrutura-Software/dp/8550804606?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6671f0309191f6f3545b62a7c2df9edb&camp=1789&creative=9325) | 📚  |
 | [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=16500572453884892813&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001754&hvtargid=pla-435472505264&psc=1&mcid=e988e075dc433c39add4b58dcc15ebce)  | 📚 |
 | [Scrum](https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade/dp/8543107164?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6ea578383403572caf9819eb710e3668&camp=1789&creative=9325) | 📚 |
