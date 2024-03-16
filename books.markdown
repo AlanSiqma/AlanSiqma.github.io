@@ -4,6 +4,15 @@ title: Leituras
 permalink: /books/
 ---
 
+## Top 3
+| Nome do livro      | Status      |
+| ----------------------  | ----------- |
+| [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%25C3%25A3o-Estrutura-Software/dp/8550804606?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6671f0309191f6f3545b62a7c2df9edb&camp=1789&creative=9325) | 📚  |
+| [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=16500572453884892813&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001754&hvtargid=pla-435472505264&psc=1&mcid=e988e075dc433c39add4b58dcc15ebce)  | 📚 |
+| [Scrum](https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade/dp/8543107164?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6ea578383403572caf9819eb710e3668&camp=1789&creative=9325) | 📚 |
+
+## Lista de Leituras
+
 | Icone     | Status      |
 | ----------------------  | ----------- |
 | 📖  | Lendo |
@@ -12,6 +21,7 @@ permalink: /books/
 
 | Nome do livro      | Status      |
 | ----------------------  | ----------- |
+| [HTML5 e CSS3 com Farinha e Pimenta ( Diego Eis)](https://www.amazon.com.br/HTML5-CSS3-com-Farinha-Pimenta/dp/1105096351) | 📖  |
 | [Controlando Versões com Git e GitHub - Autor (Casa do Código)](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532) | 📚  |
 | [Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.com.br/Arquitetura-Limpa-Artes%25C3%25A3o-Estrutura-Software/dp/8550804606?&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=6671f0309191f6f3545b62a7c2df9edb&camp=1789&creative=9325) | 📚  |
 | [Desconstruindo Paulo Freire](https://www.amazon.com.br/Desconstruindo-Paulo-Freire-Thomas-Giulliano/dp/6588627009/ref=asc_df_6588627009/?tag=googleshopp00-20&linkCode=df0&hvadid=379725089268&hvpos=&hvnetw=g&hvrand=8040126543819963972&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001754&hvtargid=pla-1196312111954&psc=1&mcid=b94673dfeb65365d91585d3770758f16&_encoding=UTF8&tag=alansiqma-20&linkCode=ur2&linkId=79c58ea88ae829af7806b2b25eadf131&camp=1789&creative=9325) | 📚  |

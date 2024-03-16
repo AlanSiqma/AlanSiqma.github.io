@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Holiday Code"
+title:  "Holiday Code - 1º Evento "
 date:   2024-02-08 10:00:00 -0300
 categories: eventos
 ---
@@ -10,7 +10,7 @@ categories: eventos
 O Holiday Code é um evento online e gratuito que será realizado no dia 13 de fevereiro das 18h00 até as 22h00.
 Nele, você terá a chance de desenvolver uma aplicação completa, desde o início até o fim.
 
-[GARANTIR MINHA VAGA](https://bit.ly/496PnTh)
+[GARANTIR MINHA VAGA](https://don7.short.gy/)
 
 ## SUA PRESENÇA É IMPORTANTE
 
@@ -22,7 +22,7 @@ Se você está buscando oportunidades no mercado, uma realocação profissional 
 
 [Acesse o repositorio do evento](https://github.com/AlanSiqma/holidaycode)
 
-[Acesse o site oficial do evento](https://bit.ly/496PnTh)
+[Acesse o site oficial do evento](https://don7.short.gy/)
 
 ## PROGRAMAÇÃO 
 
