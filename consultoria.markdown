@@ -6,22 +6,59 @@ layout: page
 permalink: /consultoria/
 ---
 
-## 🚀 Mentorship Intensivo em Desenvolvimento Profissional 🚀
+# 🚀 Mentoria Intensiva em Desenvolvimento Profissional
 
-Quer impulsionar sua carreira de forma rápida e eficaz? No programa de mentoria de um mês, vamos mergulhar em tópicos essenciais como planejamento pessoal, gestão de projetos, aprimoramento de habilidades técnicas, metodologias ágeis e muito mais! Receba orientação personalizada, participe de atividades práticas e desenvolva uma base sólida para alcançar seus objetivos profissionais. Junte-se a nós para uma jornada de crescimento e sucesso! 💼💡✨
+Transforme sua carreira em apenas 1 mês com acompanhamento personalizado, estratégias práticas e foco total nos seus objetivos!
 
-Programação de um mês:
+---
 
-- Alinhamento inicial dos objetivos
+## 🎯 O que você recebe
+
+- **Mentoria individualizada**: sessões semanais para acompanhamento do seu progresso.
+- **Plano de Desenvolvimento Individual (PDI)**: definição clara de metas e etapas.
+- **Organização de carreira**: LinkedIn, GitHub e portfólio otimizados.
+- **Gestão de projetos e produtividade**: técnicas ágeis aplicadas ao seu contexto.
+- **Atividades práticas**: desafios e tarefas para acelerar seu crescimento.
+- **Feedbacks constantes**: revisões de código e orientações para evolução contínua.
+
+---
+
+## 💡 Benefícios
+
+- Clareza nos próximos passos da sua carreira.
+- Aumento da produtividade e foco nos resultados.
+- Melhoria da sua presença digital e empregabilidade.
+- Networking e simulação de ambiente real de projetos.
+- Suporte para superar desafios técnicos e comportamentais.
+
+---
+
+## 🌟 Diferenciais
+
+- **Acompanhamento diário**: dailys rápidas de segunda a sábado para garantir evolução constante.
+- **Simulação de uma Release real**: vivencie na prática o ciclo completo de um projeto ágil.
+- **Feedbacks personalizados**: orientação direta de um engenheiro de software com experiência de mercado.
+- **Material exclusivo**: acesso a templates, checklists e ferramentas para acelerar seu desenvolvimento.
+
+---
+
+## 📅 Como funciona
+
+1. **Alinhamento inicial dos objetivos**
     - Definição de PDI
-    - Organização de calendário
-    - Quebra em atividades durante a sprint
-    - Organização do LinkedIn e GitHub
+    - Organização do calendário
+    - Quebra de metas em atividades semanais
+    - Otimização do LinkedIn e GitHub
 
-- Simulação de uma Release
-    - Daily de 15 min de segunda a sábado
+2. **Execução e acompanhamento**
+    - Dailys de 15 min (segunda a sábado)
     - Planning de 1h após o alinhamento inicial
-    - Retrospectiva no final da release para entender se os objetivos foram concluídos
+    - Atividades práticas e desafios semanais
     - Code Review (revisão de trabalho)
 
-[Clique aqui](https://don7.short.gy/ksOJSh)
+3. **Encerramento**
+    - Retrospectiva final para avaliar conquistas e próximos passos
+
+---
+
+[Garanta sua vaga agora](https://don7.short.gy/ksOJSh)
