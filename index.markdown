@@ -9,15 +9,29 @@ permalink: /
 
 ### Olá, Eu sou o Alan 👋
 
-Brasileiro, casado, 31 anos, pai da Maria Luísa 👧.
+Sou Engenheiro de Software com mais de 10 anos de experiência em tecnologia, 
+especializado em projetar e desenvolver sistemas robustos. 
 
-Engenheiro da computação, Pós Graduado em Arquitetura de Soluções.
+Minha formação inclui expertise em desenvolvimento de software usando .NET, C#, TypeScript e JavaScript, 
+aliada a sólidas habilidades em padrões de arquitetura como microsserviços, Clean Code, princípios SOLID e Domain-Driven Design (DDD). 
+Trabalhei em empresas de diversos portes em setores como finanças, varejo e serviços de tecnologia.
 
-Certificado como Scrum Master pela Scrum.Org e em AWS Certified Cloud Practitioner.
+Apaixonado por aprender, programar e compartilhar conhecimento, acredito no poder da tecnologia para transformar negócios e simplificar a vida das pessoas.
+E sim, sou um grande entusiasta de café.☕
 
-Trabalho atualmente no banco Itau como Arquiteto de Soluções.
+Tecnologias:
 
-Gosto de: estudar, ler, programar e claro muito cafe ☕
+.NET / ASP.NET MVC
+C# / TypeScript / JavaScript
+Microsserviços / Clean Code / SOLID / DDD
+PostgreSQL / MongoDB / DynamoDB / Oracle / MySQL / SQL Server
+AWS
+Kafka / AWS SQS / SNS
+Teste Unitário / Teste de Integração / Testes E2E
+GitLab CI/CD / Jenkins / GitHub Actions / Azure DevOps
+
+Minha missão é combinar expertise técnica e criatividade para resolver problemas de forma simples e eficaz. Seja liderando equipes, criando arquiteturas robustas ou desenvolvendo sistemas inovadores, meu foco está sempre em entregar valor impactante. Colaboração e trabalho em equipe estão no centro da minha abordagem, pois acredito que equipes de alto desempenho podem alcançar objetivos extraordinários. 
+
 
 [Curriculum profissional](curriculum.markdown)
 
