@@ -3,67 +3,128 @@ layout: page
 title: Curriculum
 permalink: /curriculum/
 ---
+# **Alan S. Maia**  
+**Arquiteto de Soluções | Engenheiro de Software | Desenvolvedor Fullstack**  
+.NET | C# | JavaScript | Node | Angular | Python | AWS | Azure  
+📍 São Paulo, Brasil
 
-## FORMAÇÃO ACADÊMICA
+---
 
-Engenharia de Computação, Centro Universitário FIEO, 2012 – 2016  
+## 📫 Contato
+- 📧 Email: alansiqma@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/alansiqma](https://www.linkedin.com/in/alansiqma)  
+- 💻 GitHub: [github.com/alansiqma](https://github.com/alansiqma)  
 
-Arquitetura de Soluções, PUC Minas, 2021 - 2022
+---
 
-## CERTIFICAÇÕES
-• Profissional Scrum Master I - PSM - Scrum org
+## 🧠 Resumo
+Sou Engenheiro de Software com mais de 10 anos de experiência, especializado em projetar e desenvolver sistemas robustos. Atuo com tecnologias como .NET, C#, TypeScript e JavaScript, utilizando padrões arquiteturais como microsserviços, Clean Code, princípios SOLID e DDD. Já atuei em empresas dos setores financeiro, varejo e tecnologia.
 
-• Scrum Fundamentals Certified – SFC - ScrumStudy
+Apaixonado por aprender, programar e compartilhar conhecimento, acredito no poder da tecnologia para transformar negócios e simplificar a vida das pessoas. Ah, e sou um grande entusiasta de café ☕.
 
-• Scrum Fundation Processional Certificate - CertiProf
+### Tecnologias
+- .NET / ASP.NET MVC  
+- C# / TypeScript / JavaScript  
+- Microsserviços / Clean Code / SOLID / DDD  
+- PostgreSQL / MongoDB / DynamoDB / Oracle / MySQL / SQL Server  
+- AWS  
+- Kafka / AWS SQS / SNS  
+- Testes Unitários, Integração e E2E  
+- GitLab CI/CD / Jenkins / GitHub Actions / Azure DevOps
 
-• AWS Certified Cloud Practitioner - AWS
+---
 
-## EXPERIÊNCIA
-• **Itaú – 2021 – Atual emprego**
-**Cargo:** Arquiteto de Soluções
+## 💼 Experiência
 
-**Atividades:** Responsável por projetar arquiteturas tecnológicas robustas e seguras. integração de sistemas, garantir a conformidade regulatória e otimização de processos de crédito
+### **Banco Itaú** — *3 anos 11 meses*
 
-**Cargo:** Engenheiro de Software
+**Arquiteto de Soluções**  
+📅 Out 2023 – Presente  
+📍 São Paulo, SP  
+- Definição de estratégias arquiteturais para plataforma de crédito B2B  
+- Adoção de arquitetura evolutiva com DDD  
+- Liderança de comunidade com 30+ squads
 
-**Atividades:** Responsavel por desenhar e desenvolver a migração de soluções para AWS, sustentação de sistemas legados, desenvolvimento de novas aplicações; Desenvolvimento em C#, Python, MVC, Entity Framework, Unit Test, Banco de dados Sql Server, Dynamo DB, Versionamento com GitHub, GitLab. acompanhamento dos projetos via Jira.
+**Engenheiro de Software**  
+📅 Ago 2021 – Out 2023  
+- Migração on-premises para AWS  
+- CI/CD e melhoria em resolução de bugs  
+- Atuação com ETFs e backend completo  
 
-• **Indra –2020 – 2021**
+**Tecnologias**: AWS, C#, Python, Terraform, Redis, SQL Server, DynamoDB, PostgreSQL, Angular, GitHub, GitLab, Jira
 
-**Cargo**: Analista de Sistemas (Zurich seguros)
+---
 
-**Atividades**: Realização de melhorias nos sistemas já implementados, sustentação,
-desenvolvimento de novas aplicações; Desenvolvimento em VB.NET e C#, MVC, Entity
-Framework, Unit Test, Banco de dados Oracle, Mongo DB; Versionamento com Azure DevOps;
-acompanhamento dos projetos via trello.
-Ponto em destaque: Criação de microserviço para acompanhamento de logs; provisionando
-servidor para repositório de pacotes Nugets; criação de aplicação para acompanhamento das
-atividades entre equipes.
+### **Zurich Insurance**  
+**Engenheiro de Software**  
+📅 Dez 2020 – Jul 2021  
+📍 São Paulo, SP  
+- Implementação de ferramenta de observabilidade  
+- Correções proativas de falhas sistêmicas
 
+**Tecnologias**: VB.Net, Angular, C#, MongoDB, SQL Server, Oracle
 
-• **Liberty seguros - 2018 – 2020**
+---
 
-**Cargo:** Analista de Sistemas
+### **Liberty Seguros Brasil / Yelum** — *2 anos 11 meses*
 
-**Atividades:** Os três primeiros meses terceiro pela a BRQ na mesma equipe, realizando
-implantações de melhorias nos sistemas, desenvolvimento de novas aplicações;
-Desenvolvimento em VB.NET e C#, MVC, Entity Framework, Unit Test, Banco de dados
-Oracle, Mongo DB; Integração continua e entrega continua com o Bamboo; Versionamento
-com Bitbucket; acompanhamento dos projetos via Jira, utilização de alguns timebox do Scrum.
-Ponto em destaque: Criação de extensão visual Studio para criação de novas telas que
-realização à comunicação com o ecossistema do Oracle Soa Suíte, bem como os pacotes
-Nugets referentes a esse processo.
+**Engenheiro de Software**  
+📅 Ago 2018 – Dez 2020  
+- Substituição do Oracle ADF por .NET Core  
+- Monitoramento automatizado e Scrum Master
 
-• **Sonda IT - 2014 – 2018**
+**Engenheiro de Software (Consultor BRQ)**  
+📅 Fev 2018 – Ago 2018  
+- Responsável pelo backend de sinistros  
+- Mentoria e liderança técnica
 
-**Cargo:** Analista Programador
+**Tecnologias**: MSMQ, C#, Angular, .NET, REST APIs, Oracle, Bamboo, SVN, GitHub, Jira
 
-**Atividades:** Implementando novas soluções, utilizando:.NET MVC, WCF, WEBAPI, WPF,
-WindowsForm, Angular, Cordova, Phonegap, Xamarin, CSS, HTML, Javascript, JQuery, TSQL.
-Ponto em destaque: Projeto de Portal ITSM para acompanhamentos dos chamados do
-service Desk.
+---
 
-**Cargo:** Estagiário
+### **Sonda IT** — *3 anos 5 meses*
 
-**Atividades:** Manutenção nos softwares corporativos, em: SQL Server, e Asp
+**Desenvolvedor Back End**  
+📅 Fev 2015 – Fev 2018  
+- Implantação de CI/CD com Azure DevOps e Docker  
+- Desenvolvimento de soluções premiadas  
+- Atendimento e entrega para clientes em campo
+
+**Desenvolvedor FullStack Júnior**  
+📅 Out 2014 – Jan 2015  
+- Liderança em chamados de atendimento  
+- Colaboração entre áreas e promoção
+
+**Tecnologias**: C#, .NET, MVC, EF, Angular, Xamarin, WPF, SQL Server, MongoDB
+
+---
+
+## 🎓 Formação Acadêmica
+
+**PUC Minas**  
+📚 Pós-graduação em Arquitetura de Soluções  
+📅 Fev 2021 – Ago 2022
+
+**Centro Universitário FIEO (UNIFIEO)**  
+📚 Engenharia da Computação  
+📅 Jan 2012 – Dez 2016
+
+---
+
+## 🧰 Habilidades
+
+- **Principais**: Bootstrapping, EF Core, Atlassian Bamboo  
+- **Idiomas**:  
+  - Português: Nativo  
+  - Inglês: Proficiência Profissional  
+
+---
+
+## 📜 Certificações
+
+- Profissional Scrum Master I - PSM - Scrum org
+- Scrum Fundamentals Certified – SFC - ScrumStudy
+- Scrum Fundation Processional Certificate - CertiProf
+- AWS Certified Cloud Practitioner - AWS
+- Securing LLM and NLP APIs - APIsec University 
+- Certified AI Foundations Associate - Oracle
