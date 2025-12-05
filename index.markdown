@@ -50,6 +50,7 @@ Git, GitHub
   </a>
 </div>
 
+<br/>
 ---
 
 ## 📬 Contact Me
@@ -58,8 +59,3 @@ Git, GitHub
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alansiqma)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alansiqma)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://alansiqma.github.io/)
-
----
-
-## 🐍 GitHub Activity
-![GitHub Snake Light](https://github.com/AlanSiqma/AlanSiqma/blob/output/github-snake.svg)
