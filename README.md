@@ -1,38 +1,54 @@
-## Welcome to GitHub Pages
+# 🌐 AlanSiqma.github.io
 
-You can use the [editor on GitHub](https://github.com/AlanSiqma/AlanSiqma.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository hosts my **personal portfolio and blog** built with **Jekyll** and deployed on **GitHub Pages**.  
+It showcases my professional experience, projects, tech stack, and certifications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🚀 About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Alan Siqma** – Senior .NET & Cloud Engineer | Solution Architect  
 
-```markdown
-Syntax highlighted code block
+- Passionate about designing and building scalable, modern, and maintainable software solutions.  
+- B.Sc. in Computer Engineering, Postgraduate in Solution Architecture  
+- Certified Scrum Master (Scrum.org), AWS Certified Cloud Practitioner, Azure Fundamentals (AZ-900)  
+- Currently working as a Solution Architect at Bradesco  
 
-# Header 1
-## Header 2
-### Header 3
+This site presents my professional journey, projects, tech skills, and ways to get in touch.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## 🛠 Tech Stack
 
-**Bold** and _Italic_ and `Code` text
+- **Languages:** C#, JavaScript, TypeScript, Python  
+- **Frameworks & Runtime:** .NET, Node.js, Angular  
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB  
+- **Cloud & DevOps:** Azure, AWS, Docker  
+- **Frontend:** HTML5, CSS3  
+- **Tools:** Git, GitHub, Jekyll  
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 📄 Content
 
-### Jekyll Themes
+The website includes the following sections:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlanSiqma/AlanSiqma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Home:** Short introduction and headline  
+- **About Me:** Full biography and certifications  
+- **Projects:** Selected projects with descriptions, technologies, and links  
+- **Tech Stack:** Organized list of skills and technologies  
+- **Contact:** Email, LinkedIn, GitHub, and blog links  
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 🔗 Visit the Site
 
+Check out the live site here: [https://AlanSiqma.github.io](https://AlanSiqma.github.io)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [alansiqma@gmail.com](mailto:alansiqma@gmail.com)  
+- 🔗 LinkedIn: [Alan Siqma](https://www.linkedin.com/in/alansiqma)  
+- 🔗 GitHub: [AlanSiqma](https://github.com/AlanSiqma)
